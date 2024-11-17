@@ -1,0 +1,96 @@
+('/Users/junxibao/Library/Mobile '
+ 'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/Word to '
+ 'PDF/build/main/main',
+ True,
+ False,
+ True,
+ None,
+ None,
+ False,
+ False,
+ None,
+ True,
+ False,
+ 'arm64',
+ None,
+ None,
+ '/Users/junxibao/Library/Mobile '
+ 'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/Word to '
+ 'PDF/build/main/main.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/Word to '
+   'PDF/build/main/PYZ-00.pyz',
+   'PYZ'),
+  ('lib-dynload/_struct.cpython-313-darwin.so',
+   '/opt/homebrew/Cellar/python@3.13/3.13.0_1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload/_struct.cpython-313-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/zlib.cpython-313-darwin.so',
+   '/opt/homebrew/Cellar/python@3.13/3.13.0_1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload/zlib.cpython-313-darwin.so',
+   'EXTENSION'),
+  ('struct',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/Word to '
+   'PDF/build/main/localpycs/struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/Word to '
+   'PDF/build/main/localpycs/pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/Word to '
+   'PDF/build/main/localpycs/pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/Word to '
+   'PDF/build/main/localpycs/pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/Word to '
+   'PDF/.venv/lib/python3.13/site-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/Word to '
+   'PDF/.venv/lib/python3.13/site-packages/PyInstaller/hooks/rthooks/pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/Word to '
+   'PDF/.venv/lib/python3.13/site-packages/PyInstaller/hooks/rthooks/pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/Word to '
+   'PDF/.venv/lib/python3.13/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/Word to '
+   'PDF/.venv/lib/python3.13/site-packages/PyInstaller/hooks/rthooks/pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/Word to '
+   'PDF/.venv/lib/python3.13/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('main',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/Word to '
+   'PDF/main.py',
+   'PYSOURCE')],
+ [],
+ False,
+ False,
+ 1731842918,
+ [('run',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/Word to '
+   'PDF/.venv/lib/python3.13/site-packages/PyInstaller/bootloader/Darwin-64bit/run',
+   'EXECUTABLE')],
+ '/opt/homebrew/Cellar/python@3.13/3.13.0_1/Frameworks/Python.framework/Versions/3.13/Python')
